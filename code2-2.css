@@ -1,0 +1,45 @@
+﻿@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 8th Edition
+   Tutorial 2
+   Coding Activity 2
+
+   Author: SCOTTY SIEVERS
+   Date: 09/04/2026
+   
+   Filename: code2-2.css
+
+*/
+
+header > h1 {
+   text-align: center;
+   font-family: Impact, sans-serif;
+   font-size: 3em;
+}
+
+nav > h1 {
+   font-size: 1.2em;
+   color: white;
+   background-color: black;
+   text-align: center;
+}
+
+article > h1 {
+   font-size: 2em;
+   font-family: cursive;
+}
+
+nav ul {
+   list-style-type: none;
+   line-height: 2em;
+}
+
+a {
+   color: ivory;
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}
